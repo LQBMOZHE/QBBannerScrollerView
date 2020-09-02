@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'QBBannerScrollerView_Example' do
+  pod 'QBBannerScrollerView', :path => '../'
+
+  target 'QBBannerScrollerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
