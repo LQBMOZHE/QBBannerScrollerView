@@ -1,0 +1,25 @@
+PODS:
+  - QBBannerScrollerView (0.1.0):
+    - SDWebImage
+  - SDWebImage (5.9.0):
+    - SDWebImage/Core (= 5.9.0)
+  - SDWebImage/Core (5.9.0)
+
+DEPENDENCIES:
+  - QBBannerScrollerView (from `../QBBannerScrollerView.podspec`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  QBBannerScrollerView:
+    :path: "../QBBannerScrollerView.podspec"
+
+SPEC CHECKSUMS:
+  QBBannerScrollerView: 1688f0035e5466ec2b7332abb673d502d685ba13
+  SDWebImage: 62ae4a18473520c67b79e9724c31a63599cc9423
+
+PODFILE CHECKSUM: ab6f0675010346b7789eec5c8d6871ad86cdcafb
+
+COCOAPODS: 1.9.1

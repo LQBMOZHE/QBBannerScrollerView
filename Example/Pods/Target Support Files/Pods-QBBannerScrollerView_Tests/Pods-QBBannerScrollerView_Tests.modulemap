@@ -1,0 +1,6 @@
+framework module Pods_QBBannerScrollerView_Tests {
+  umbrella header "Pods-QBBannerScrollerView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

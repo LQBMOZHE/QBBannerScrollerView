@@ -1,0 +1,28 @@
+{
+  "name": "QBBannerScrollerView",
+  "version": "0.1.0",
+  "summary": "A short description of QBBannerScrollerView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LQBMOZHE/QBBannerScrollerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "673208274@qq.com": "673208274@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LQBMOZHE/QBBannerScrollerView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QBBannerScrollerView/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  }
+}

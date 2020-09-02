@@ -1,0 +1,6 @@
+framework module QBBannerScrollerView {
+  umbrella header "QBBannerScrollerView-umbrella.h"
+
+  export *
+  module * { export * }
+}
